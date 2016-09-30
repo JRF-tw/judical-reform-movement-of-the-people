@@ -15,3 +15,7 @@
 # LICENSE
 
 本書以CC-BY-SA 4.0授權條款釋出
+
+# 相關資源
+
+* [Gumroad](https://gum.co/justice-care)

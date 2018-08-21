@@ -21,3 +21,5 @@
 # 相關資源
 
 * [Gumroad](https://gum.co/justice-care)
+* [Google Books](https://play.google.com/store/books/details/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E6%B0%91%E9%96%93%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9%E5%9F%BA%E9%87%91%E6%9C%83_%E5%85%A8%E6%B0%91%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9%E9%81%8B%E5%8B%95?id=ju4pDQAAQBAJ)
+
